@@ -695,5 +695,22 @@
     "source": "LIFULL HOME'S",
     "priceRaw": 950,
     "areaRaw": "1,252m²"
+  },
+  {
+    "row_number": 43,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-1552040000034/",
+    "address": "長野県上田市上野",
+    "name": "上田市上野 (大屋駅)",
+    "price": 600,
+    "priceIsRange": false,
+    "area": 448.66,
+    "tsubo": 135.7,
+    "tanka": 4.4,
+    "allin": 4250,
+    "flags": "",
+    "firstSeen": "2026-09-11",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 600,
+    "areaRaw": "448.66m²"
   }
 ]

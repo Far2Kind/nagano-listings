@@ -988,5 +988,23 @@
     "priceRaw": 380,
     "areaRaw": "847㎡",
     "desc": "鹿の湯、スキー場、ゴルフ場、おっこと亭まで２～３ｋｍ圏内の好立地"
+  },
+  {
+    "row_number": 57,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-1494960000290/",
+    "address": "長野県飯田市北方",
+    "name": "飯田市北方 (切石駅)",
+    "price": 1550,
+    "priceIsRange": false,
+    "area": 1006,
+    "tsubo": 304.3,
+    "tanka": 5.1,
+    "allin": 5200,
+    "flags": "予算超過",
+    "firstSeen": "2026-09-19",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 1550,
+    "areaRaw": "1,006m²",
+    "desc": "国道にアクセス良く、西友伊賀良店徒歩9分、サガミさん徒歩7分と便利なエリアながら緑もある快適な住環境"
   }
 ]

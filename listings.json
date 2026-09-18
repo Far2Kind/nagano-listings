@@ -1006,5 +1006,23 @@
     "priceRaw": 1550,
     "areaRaw": "1,006m²",
     "desc": "国道にアクセス良く、西友伊賀良店徒歩9分、サガミさん徒歩7分と便利なエリアながら緑もある快適な住環境"
+  },
+  {
+    "row_number": 58,
+    "listingUrl": "https://www.ishiikikaku.com/data.php?c=info&item=1-189V",
+    "address": "諏訪郡富士見町　富士見高原別荘地　と地区",
+    "name": "富士見町　富士見高原別荘地　ほ地区　土地",
+    "price": 170,
+    "priceIsRange": false,
+    "area": 745,
+    "tsubo": 225.4,
+    "tanka": 0.8,
+    "allin": 4120,
+    "flags": "",
+    "firstSeen": "2026-09-19",
+    "source": "石井企画",
+    "priceRaw": 170,
+    "areaRaw": "745㎡",
+    "desc": "プライベート感のある一番端の区画"
   }
 ]

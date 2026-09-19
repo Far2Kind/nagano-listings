@@ -1024,5 +1024,41 @@
     "priceRaw": 170,
     "areaRaw": "745㎡",
     "desc": "プライベート感のある一番端の区画"
+  },
+  {
+    "row_number": 59,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-37260470000004/",
+    "address": "長野県長野市中越2丁目",
+    "name": "長野市中越2丁目 (北長野駅)",
+    "price": 5980,
+    "priceIsRange": false,
+    "area": 588.69,
+    "tsubo": 178.1,
+    "tanka": 33.6,
+    "allin": 9630,
+    "flags": "予算超過",
+    "firstSeen": "2026-09-20",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 5980,
+    "areaRaw": "588.69m²",
+    "desc": ""
+  },
+  {
+    "row_number": 60,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-1467830000667/",
+    "address": "長野県長野市松代町柴",
+    "name": "長野市松代町柴 (今井駅)",
+    "price": 2098,
+    "priceIsRange": false,
+    "area": 726.99,
+    "tsubo": 219.9,
+    "tanka": 9.5,
+    "allin": 5748,
+    "flags": "予算超過",
+    "firstSeen": "2026-09-20",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 2098,
+    "areaRaw": "726.99m²",
+    "desc": "建築条件無し！219坪の土地が登場♪"
   }
 ]

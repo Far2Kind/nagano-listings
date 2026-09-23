@@ -1150,5 +1150,23 @@
     "priceRaw": 480,
     "areaRaw": "1,324.78m²",
     "desc": "石川町ののどかな住環境！約400坪の広大な敷地！アウトドアや車が趣味の方、お庭にドックランを作りたい方にもおすすめ！この機会に是非お問い合わせください。"
+  },
+  {
+    "row_number": 66,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-32218860000005/",
+    "address": "青森県東津軽郡外ヶ浜町蟹田中師苗代沢",
+    "name": "東津軽郡外ヶ浜町蟹田中師苗代沢 (蟹田駅)",
+    "price": 150,
+    "priceIsRange": false,
+    "area": 555,
+    "tsubo": 167.9,
+    "tanka": 0.9,
+    "allin": 3800,
+    "flags": "",
+    "firstSeen": "2026-09-24",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 150,
+    "areaRaw": "555m²",
+    "desc": "蟹田・北西角地166.88坪・外ヶ浜警察署向かい"
   }
 ]

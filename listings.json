@@ -1600,5 +1600,23 @@
     "priceRaw": 998,
     "areaRaw": "600m²",
     "desc": "K2マート裏手で買い物便利・広々181.5坪・鯵ヶ沢駅まで徒歩8分"
+  },
+  {
+    "row_number": 91,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-1241930003663/",
+    "address": "青森県青森市浪岡大字浪岡字若松",
+    "name": "青森市浪岡大字浪岡字若松 (浪岡駅)",
+    "price": 2580,
+    "priceIsRange": false,
+    "area": 2968,
+    "tsubo": 897.8,
+    "tanka": 2.9,
+    "allin": 6230,
+    "flags": "予算超過",
+    "firstSeen": "2026-10-05",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 2580,
+    "areaRaw": "2,968m²",
+    "desc": "◆浪岡南小学校◆浪岡中学校◆『浪岡』駅徒歩12分◆土地広々2968 ◆建設条件なし◆前面道路17ｍ"
   }
 ]

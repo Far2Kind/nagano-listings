@@ -1618,5 +1618,23 @@
     "priceRaw": 2580,
     "areaRaw": "2,968m²",
     "desc": "◆浪岡南小学校◆浪岡中学校◆『浪岡』駅徒歩12分◆土地広々2968 ◆建設条件なし◆前面道路17ｍ"
+  },
+  {
+    "row_number": 92,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-37071250001697/",
+    "address": "長野県岡谷市長地源2丁目",
+    "name": "岡谷市長地源2丁目 (下諏訪駅)",
+    "price": 1500,
+    "priceIsRange": false,
+    "area": 1591,
+    "tsubo": 481.3,
+    "tanka": 3.1,
+    "allin": 5150,
+    "flags": "予算超過",
+    "firstSeen": "2026-10-06",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 1500,
+    "areaRaw": "1,591m²",
+    "desc": "広い土地！"
   }
 ]

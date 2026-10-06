@@ -1636,5 +1636,23 @@
     "priceRaw": 1500,
     "areaRaw": "1,591m²",
     "desc": "広い土地！"
+  },
+  {
+    "row_number": 93,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-32800270000006/",
+    "address": "山形県米沢市浅川",
+    "name": "米沢市浅川 (置賜駅)",
+    "price": 350,
+    "priceIsRange": false,
+    "area": 732,
+    "tsubo": 221.4,
+    "tanka": 1.6,
+    "allin": 4300,
+    "flags": "",
+    "firstSeen": "2026-10-07",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 350,
+    "areaRaw": "732m²",
+    "desc": ""
   }
 ]

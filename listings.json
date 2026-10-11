@@ -2176,5 +2176,41 @@
     "priceRaw": 304,
     "areaRaw": "503.39m²",
     "desc": "道の駅しょうわまで徒歩約12分。前面道路が広いので住宅以外でも活用できます。"
+  },
+  {
+    "row_number": 123,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-32216980000007/",
+    "address": "青森県南津軽郡田舎館村大曲字村元7-2",
+    "name": "南津軽郡田舎館村大曲字村元7-2 (川部駅)",
+    "price": 480,
+    "priceIsRange": false,
+    "area": 655,
+    "tsubo": 198.1,
+    "tanka": 2.4,
+    "allin": 4130,
+    "flags": "",
+    "firstSeen": "2026-10-12",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 480,
+    "areaRaw": "655m²",
+    "desc": "弘前さくら野まで直線距離4キロ、弘前通勤圏お車10分で弘前市内へ、南道路 閑静な住宅地・敷地面積198坪"
+  },
+  {
+    "row_number": 124,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-32800320000013/",
+    "address": "青森県南津軽郡田舎館村川部字村元",
+    "name": "南津軽郡田舎館村川部字村元 (川部駅)",
+    "price": 500,
+    "priceIsRange": false,
+    "area": 904.7,
+    "tsubo": 273.7,
+    "tanka": 1.8,
+    "allin": 4150,
+    "flags": "",
+    "firstSeen": "2026-10-12",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 500,
+    "areaRaw": "904.7m²",
+    "desc": "JR田舎館駅徒歩8分の広々273.67坪の土地販売開始しました!解体更地渡し。空き家バンク登録物件"
   }
 ]

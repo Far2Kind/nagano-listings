@@ -2212,5 +2212,23 @@
     "priceRaw": 500,
     "areaRaw": "904.7m²",
     "desc": "JR田舎館駅徒歩8分の広々273.67坪の土地販売開始しました!解体更地渡し。空き家バンク登録物件"
+  },
+  {
+    "row_number": 125,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-1552040000123/",
+    "address": "長野県上田市舞田",
+    "name": "上田市舞田 (舞田駅)",
+    "price": 150,
+    "priceIsRange": false,
+    "area": 730,
+    "tsubo": 220.8,
+    "tanka": 0.7,
+    "allin": 3800,
+    "flags": "",
+    "firstSeen": "2026-10-13",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 150,
+    "areaRaw": "730m²",
+    "desc": ""
   }
 ]

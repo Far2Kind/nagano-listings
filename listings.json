@@ -2230,5 +2230,41 @@
     "priceRaw": 150,
     "areaRaw": "730m²",
     "desc": ""
+  },
+  {
+    "row_number": 126,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-37074110000051/",
+    "address": "長野県松本市波田",
+    "name": "松本市波田 (波田駅)",
+    "price": 1200,
+    "priceIsRange": false,
+    "area": 1455.54,
+    "tsubo": 440.3,
+    "tanka": 2.7,
+    "allin": 4850,
+    "flags": "林",
+    "firstSeen": "2026-10-14",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 1200,
+    "areaRaw": "1,455.54m²",
+    "desc": "現況「畑」「砕石敷き広場」「山林」が混在しています。現地にてご確認ください。"
+  },
+  {
+    "row_number": 127,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-32219070000008/",
+    "address": "宮城県仙台市泉区朴沢字中在家",
+    "name": "仙台市泉区朴沢字中在家 (要害バス停)",
+    "price": 2500,
+    "priceIsRange": false,
+    "area": 1323.16,
+    "tsubo": 400.3,
+    "tanka": 6.2,
+    "allin": 6150,
+    "flags": "予算超過",
+    "firstSeen": "2026-10-14",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 2500,
+    "areaRaw": "1,323.16m²",
+    "desc": ""
   }
 ]

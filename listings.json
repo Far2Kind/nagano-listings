@@ -2392,5 +2392,41 @@
     "priceRaw": 3600,
     "areaRaw": "623.44m²",
     "desc": ""
+  },
+  {
+    "row_number": 135,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-32800510000006/",
+    "address": "岩手県盛岡市高松2丁目9-48",
+    "name": "盛岡市高松2丁目9-48 (上盛岡駅)",
+    "price": 1800,
+    "priceIsRange": false,
+    "area": 658.18,
+    "tsubo": 199.1,
+    "tanka": 9,
+    "allin": 5450,
+    "flags": "予算超過",
+    "firstSeen": "2026-10-19",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 1800,
+    "areaRaw": "658.18m²",
+    "desc": "上田小・上田中学校学区です!"
+  },
+  {
+    "row_number": 136,
+    "listingUrl": "https://www.homes.co.jp/tochi/b-32800510000001/",
+    "address": "岩手県盛岡市川目町3-8",
+    "name": "盛岡市川目町3-8 (上盛岡駅)",
+    "price": 1300,
+    "priceIsRange": false,
+    "area": 787.24,
+    "tsubo": 238.1,
+    "tanka": 5.5,
+    "allin": 4950,
+    "flags": "",
+    "firstSeen": "2026-10-19",
+    "source": "LIFULL HOME'S",
+    "priceRaw": 1300,
+    "areaRaw": "787.24m²",
+    "desc": "解体更地渡し 中野小・河南中学区"
   }
 ]

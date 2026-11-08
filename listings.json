@@ -2518,5 +2518,23 @@
     "priceRaw": 800,
     "areaRaw": "3,896m²",
     "desc": ""
+  },
+  {
+    "row_number": 142,
+    "listingUrl": "https://www.ishiikikaku.com/data.php?c=info&item=1-190V",
+    "address": "長野県諏訪郡原村アルピコ四季の森カラマツ平",
+    "name": "アルピコ四季の森カラマツ平で管理事務所近くの平坦な土地",
+    "price": 950,
+    "priceIsRange": false,
+    "area": 1102,
+    "tsubo": 333.4,
+    "tanka": 2.8,
+    "allin": 4900,
+    "flags": "移住",
+    "firstSeen": "2026-11-09",
+    "source": "石井企画",
+    "priceRaw": 950,
+    "areaRaw": "1,102㎡",
+    "desc": "ハチマキ道路から１本東に入った定住者も多いエリア"
   }
 ]
